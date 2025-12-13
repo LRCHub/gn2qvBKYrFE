@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ナイトルーティーン (cover)",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-13T12:47:17.375074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイトルーティーン",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_ナイトルーティーン_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナイトルーティーン (cover)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_ナイトルーティーン_(cover)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナイトルーティーン",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_ナイトルーティーン_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナイトルーティーン / Night Routine",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/04_ナイトルーティーン___Night_Routine_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナイトルーティーン",
+      "artist": "Tatsuya Kitani, suis from Yorushika",
+      "has_synced": true,
+      "path": "select/05_ナイトルーティーン_Tatsuya_Kitani,_suis_from_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ナイトルーティーン (feat. suis from ヨルシカ)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/06_ナイトルーティーン_(feat._suis_from_ヨルシカ)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ナイトルーティーン (cover) - Night Routine (cover)",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/07_ナイトルーティーン_(cover)_-_Night_Routine_(cover)_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトルーティーン (cover)",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトルーティーン_(cover)_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ナイトルーティーン (feat.suis (from ヨルシカ))",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_ナイトルーティーン_(feat.suis_(from_ヨルシカ))_キタニタツヤ.txt"
+    }
+  ]
+}
